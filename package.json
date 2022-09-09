@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@ethersproject/experimental": "^5.7.0",
+    "dotenv": "^16.0.2",
+    "ethers": "^5.7.0"
+  }
+}
